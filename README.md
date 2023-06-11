@@ -1,7 +1,7 @@
 # SlickMercy
 TG: SlickMercy 
 
-# Hack camaras hikvision (Android)
+
 
 # Termux 
 Descarga termux de F-Droid
